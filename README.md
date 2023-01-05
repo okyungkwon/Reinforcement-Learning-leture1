@@ -6,6 +6,7 @@
 
 ## Leture 2: OpenAI GYM game
 강화학습에는 에이전트와 환경이 있습니다. 에이전트는 어떤 행동을 하고 에이전트가 행동을 할 때마다 환경 속에서의 상태는 바뀌게 됩니다. 강화학습을 하기 위해선 에이전트와 환경이 있어야 합니다. 이때 환경은 OpenAI GYM에서 제공하는 환경을 사용해 볼 예정입니다.
+
 <img width="810" alt="스크린샷 2023-01-06 오전 1 33 04" src="https://user-images.githubusercontent.com/121830114/210832468-6e8d3ed9-4310-497c-b30e-f7907b07a04b.png">
 OpenAI GYM: 강화학습 환경을 만들어주는 프레임 워크</br> 실습: OpenAI GYM에서 제공하는 환경인 Frozen Lake
 <img width="863" alt="스크린샷 2023-01-06 오전 1 32 30" src="https://user-images.githubusercontent.com/121830114/210834509-d537bee9-6024-4e11-89c2-6f0e11e1bc6d.png">
