@@ -13,3 +13,6 @@ S: 시작점, F: 얼은 면, H: 구멍 G: 목표지점</br>시작 지점에서 �
 
 ## 실습: 게임과정
 <img width="360" alt="스크린샷 2023-01-06 오전 1 29 50" src="https://user-images.githubusercontent.com/121830114/210835625-183ed34b-2773-4a9b-98d6-48b0969bd8cb.png">
+<img width="256" alt="스크린샷 2023-01-06 오전 1 27 32" src="https://user-images.githubusercontent.com/121830114/210837145-3fb68564-472f-40da-b8a2-3f2d7c4c4117.png">
+<img width="259" alt="스크린샷 2023-01-06 오전 1 27 53" src="https://user-images.githubusercontent.com/121830114/210837153-d0306522-2376-4efa-b3a0-a2137e18c139.png">
+<img width="258" alt="스크린샷 2023-01-06 오전 1 29 08" src="https://user-images.githubusercontent.com/121830114/210837160-1f9f6a88-2dab-44b8-93fa-7950aea5774b.png">
