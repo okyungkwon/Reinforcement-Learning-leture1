@@ -9,4 +9,7 @@
 OpenAI GYM: 강화학습 환경을 만들어주는 프레임 워크</br> 실습: OpenAI GYM에서 제공하는 환경인 Frozen Lake
 <img width="863" alt="스크린샷 2023-01-06 오전 1 32 30" src="https://user-images.githubusercontent.com/121830114/210834509-d537bee9-6024-4e11-89c2-6f0e11e1bc6d.png">
 S: 시작점, F: 얼은 면, H: 구멍 G: 목표지점</br>시작 지점에서 구멍에 빠지지 않고 목표 지점까지 도착해야하는 게임</br>
-에이전트는 FrozenLake 안에서 상하좌우로 움직일 수 있으며 에이전트가 액션을 취하면 환경은 그에 맞는 상태나 보상을 주게 됩니다.
+에이전트는 FrozenLake 안에서 상하좌우(action)로 움직일 수 있으며 에이전트가 액션을 취하면 환경은 그에 맞는 상태나 보상을 주게 됩니다.
+
+## 실습: 게임과정
+<img width="360" alt="스크린샷 2023-01-06 오전 1 29 50" src="https://user-images.githubusercontent.com/121830114/210835625-183ed34b-2773-4a9b-98d6-48b0969bd8cb.png">
